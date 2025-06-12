@@ -6,6 +6,10 @@ package Typ_Casting;
 
 
 public class Task_characterToASCII {
-
+    public static void main(String[] args) {
+        char x = 'D';
+        int y = (int)x;
+        System.out.println(y);
+    }
 
 }

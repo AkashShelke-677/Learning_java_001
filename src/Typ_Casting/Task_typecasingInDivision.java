@@ -6,7 +6,14 @@ package Typ_Casting;
 public class Task_typecasingInDivision {
 
     public static void main(String[] args) {
+        int a = 10;
+        int b = 3;
 
+        float c = (a/b); // implicit widening
+        float d = (float)c; // explicit widening
+
+        System.out.println(c);
+        System.out.println(d);
 
     }
 }

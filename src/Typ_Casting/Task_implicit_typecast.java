@@ -4,4 +4,11 @@ package Typ_Casting;
 //Description: Convert int A =100 to double.
 
 public class Task_implicit_typecast {
+    public static void main(String[] args) {
+
+        int a = 12;
+        double b = a;
+        System.out.println(b);
+
+    }
 }
