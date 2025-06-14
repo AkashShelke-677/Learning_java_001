@@ -12,8 +12,8 @@ package Ternory_Operator;
  */
 public class lab001_ternoryOperator {
     public static void main(String[] args) {
-         int age = 18;
-         String Can_I_Vote = age>= 18? "YES":"NO";
+         int age = -18;
+         String Can_I_Vote = (age<0) ? "invalid age":(age>= 18)? "YES":"NO";
          System.out.println(Can_I_Vote);
     }
     
