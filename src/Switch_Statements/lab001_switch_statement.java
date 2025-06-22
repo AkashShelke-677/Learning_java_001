@@ -28,6 +28,9 @@ public class lab001_switch_statement {
             case 6 :
                 System.out.println("Saturday");
                 break;
+            case 7 :
+                System.out.println("Sunday");
+                break;
             default:
                 System.out.println("Not allowed");
                 break;

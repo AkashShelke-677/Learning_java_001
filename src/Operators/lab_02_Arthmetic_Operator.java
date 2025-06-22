@@ -1,8 +1,6 @@
 package Operators;
 
-import java.net.StandardSocketOptions;
-
-public class lab_02_Athmetic_Operator {
+public class lab_02_Arthmetic_Operator {
     public static void main(String[] args) {
 
         int a = 22;
