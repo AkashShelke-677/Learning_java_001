@@ -1,4 +1,4 @@
-package ex008_While_loop_DoWhile_loop;
+package ex008_While_loop;
 
 public class lab001_while_loop {
     public static void main(String[] args) {

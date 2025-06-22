@@ -1,4 +1,4 @@
-package ex009_Function;
+package ex010_Function;
 
 public class lab002_functionReturn {
 

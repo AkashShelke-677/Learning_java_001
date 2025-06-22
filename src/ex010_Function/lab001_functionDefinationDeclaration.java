@@ -1,4 +1,4 @@
-package ex009_Function;
+package ex010_Function;
 
 public class lab001_functionDefinationDeclaration {
     public static void main(String[] args) {

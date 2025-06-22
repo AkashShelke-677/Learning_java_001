@@ -1,4 +1,4 @@
-package ex009_Function;
+package ex010_Function;
 
 import java.util.Scanner;
 

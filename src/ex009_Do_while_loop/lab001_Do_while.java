@@ -1,4 +1,4 @@
-package Do_while_loop;
+package ex009_Do_while_loop;
 
 public class lab001_Do_while {
     public static void main(String[] args) {

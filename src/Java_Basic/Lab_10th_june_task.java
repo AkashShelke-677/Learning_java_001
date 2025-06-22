@@ -1,6 +1,4 @@
-package ex_01_Java_Basic;
-
-import java.net.StandardSocketOptions;
+package Java_Basic;
 
 public class Lab_10th_june_task {
 
