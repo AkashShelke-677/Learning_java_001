@@ -45,13 +45,12 @@ public class lab003_String_Function {
         System.out.println(B);
 
         int i = 674;
-        String s = String.valueOf(i); // return the int or long argument Convert value to string
-        System.out.println(s);
+        String s4 = String.valueOf(i); // return the int or long argument Convert value to string
+        System.out.println(s4);
 
 
         String d = "ABCDEF";
         char [] arr= d.toCharArray(); // Converts the string to a new character array.
-        System.out.println(arr[]);
 
 
 
