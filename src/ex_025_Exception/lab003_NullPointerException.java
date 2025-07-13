@@ -1,4 +1,4 @@
-package ex_024_Exception;
+package ex_025_Exception;
 
 public class lab003_NullPointerException {
     public static void main(String[] args) {
